@@ -1,0 +1,2 @@
+# luxury.js
+luxury
